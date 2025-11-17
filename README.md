@@ -1,3 +1,3 @@
-# IB Gateway
+# IBKR Releases
 
-This repo hosts historical version of IB releases.
+This repo hosts historical version of IBKR releases.
